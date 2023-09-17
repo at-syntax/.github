@@ -15,12 +15,14 @@
 
 ---
 
-Technology we used so far:
+Technology we have used so far:
 
 - Typescript
 - Javascript
 - React.js
-- React native
+- React Native
 - Next.js
-
----
+- Node
+- Express
+- GraphQL
+- PostgreSQL
