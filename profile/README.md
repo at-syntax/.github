@@ -26,3 +26,7 @@ Technology we have used so far:
 - Express
 - GraphQL
 - PostgreSQL
+
+<br/>
+
+🤨 Any doubt? Feel free to reach me [@saikat-samanta](https://github.com/saikat-samanta)
